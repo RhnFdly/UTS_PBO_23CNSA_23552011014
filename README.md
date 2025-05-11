@@ -19,7 +19,9 @@ Aplikasi kasir keuangan berbasis Java yang mendukung setor dan tarik tunai mengg
 - CLI Menu Interaktif
 
 ##SQL
+
 CREATE DATABASE kasir_keuangan;
+
 USE kasir_keuangan;
 
 CREATE TABLE rekening (
